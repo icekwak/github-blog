@@ -1,13 +1,30 @@
 ---
-title: "이 블로그 설명서"
+title: "블로그 제작 설명서"
 permalink: /about/
 layout: single
 ---
 
-## devinlife.github.io 블로그
+## 블로그 제작한 이유
 
-이 블로그는 GitHub Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
+1. 공부노트
+    나의 다양한 공부 내용들을 적어두고 싶다.
+    이런 내용을 항상 메모장에 적어두고 살았다.
+    (수많은 메모장 관리불가..)
 
-진짜 블로그인 <https://devinlife.com>을 방문해보자.
-이 곳에서 이 샘플 블로그를 같이 만들어보는 GitHub Pages 블로그 따라하기 시리즈의
-모든 글을 볼 수 있다.
+2. 공유
+    나의 공부 내용들을 공유하고 싶었다.
+    그리고 동기들이랑 정보를 공유할 때가 있다.
+    이럴 때마다 항상 메모장을 보내 줬다.
+    (동기도 관리불가.. 어디에 저장했지..다시 보내ㅈ.. )
+
+크게 2가지 이유 때문에 제작하게 되었다.
+
+## 블로그 제작 과정 참고 사이트
+
+<https://devinlife.com>
+GitHub Pages 블로그 따라하기 시리즈 참고.
+
+## 블로그 테마 
+
+<https://github.com/mmistakes/minimal-mistakes>
+기본 single 테마 사용.
