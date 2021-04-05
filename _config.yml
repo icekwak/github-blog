@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "YeongJu's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "YeongJu's Log"
+name                     : "YeongJu Kwak"
 description              : "컴공 대학생 블로그"
 url                      : "https://icekwak.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -89,11 +89,11 @@ analytics:
 author:
   name             : "YeongJu Kwak"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #
+  bio              : icekwak@gmail.com
   location         : "South Korea"
   email            : #
   links:
-    - label: "icekwak@gmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:"
     - label: "Website"
