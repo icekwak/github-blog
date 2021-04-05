@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
@@ -16,12 +9,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "kwak블로그"
+title                    : "YeongJu's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "icekwak"
-description              : #
-url                      : "https://icekwak.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "YeongJu's Log"
+description              : "컴공 대학생 블로그"
+url                      : "https://icekwak.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -94,18 +87,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "icekwak"
+  name             : "YeongJu Kwak"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "컴공 대학생"
+  bio              : #
   location         : "South Korea"
-  email            : "icekwak@gmail.com"
+  email            : #
   links:
-    - label: "Email"
+    - label: "icekwak@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:icekwak@gmail.com"
+      # url: "mailto:"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://icekwak.github.io/"
+      # url: 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
