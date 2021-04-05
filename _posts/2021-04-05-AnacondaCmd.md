@@ -1,11 +1,13 @@
 ---
-title:  "아나콘다 단축어"
-excerpt: "기본 단축어들"
+title:  "Anaconda 명령어"
+excerpt: "Anaconda Command"
 
 categories:
-  - anaconda
+  - Command
+  - 명령어
 tags:
   - anaconda
+  - 아나콘다
 last_modified_at: 2021-04-05 #T08:06:00-05:00
 ---
 
