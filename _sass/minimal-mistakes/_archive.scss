@@ -28,7 +28,13 @@
 
   a[rel="permalink"] {
     position: static;
+    text-decoration: none;
+    color: black;
   }
+
+  // &:hover{
+  //   border-bottom: 1px solid #000;
+  // }
 }
 
 .archive__subtitle {

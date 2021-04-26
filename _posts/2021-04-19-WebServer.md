@@ -3,9 +3,9 @@ title:  "[2~7주차] 웹서버"
 excerpt: "이론 정리"
 
 categories:
-  - 
-tags:
-  - 
+  - 웹서버구축
+# tags:
+#   - 
 
 last_modified_at: 2021-04-19 #T08:06:00-05:00
 ---

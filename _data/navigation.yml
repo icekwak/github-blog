@@ -13,6 +13,6 @@ main:
   - title: "About"
     url: /about/
   - title: "Posts"
-  #  url: /sitemap/
-  - title: "Serch"
-  #  url: /sitemap/
+    url: /posts/
+  - title: "MyNote"
+    url: /myNote/

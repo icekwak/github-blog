@@ -177,19 +177,15 @@
   -ms-flex-align: center;
   align-items: center;
   min-height: $nav-height;
-  background: $background-color;
+  background: $header-background-color;
 
   a {
     display: block;
     margin: 0 1rem;
-    color: $masthead-link-color;
+    color: $masthead-link-color; // 메뉴 로고 컬러
     text-decoration: none;
     -webkit-transition: none;
     transition: none;
-
-    &:hover {
-      color: $masthead-link-color-hover;
-    }
 
     &.site-logo {
       margin-left: 0;
@@ -234,6 +230,10 @@
       flex: none;
     }
 
+    a:hover {
+      color: $masthead-link-color-hover;
+    }
+    /* 메뉴 오류 주범
     a {
       position: relative;
 
@@ -256,7 +256,7 @@
         -ms-transform: scaleX(1);
         transform: scaleX(1); // reveal
       }
-    }
+    }*/
   }
 
   .hidden-links {

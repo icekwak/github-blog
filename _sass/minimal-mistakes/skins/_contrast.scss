@@ -3,15 +3,18 @@
    ========================================================================== */
 
 /* Colors */
-$text-color: #000 !default;
-$muted-text-color: $text-color !default;
-$primary-color: #ff0000 !default;
+$text-color: #000 !default; 
+$muted-text-color: $text-color !default; // 페이징컬러, Recent Post컬러 시간표시 컬러
+$primary-color: #ff0000 !default; // 페이징 백그라운드컬러
 $border-color: mix(#fff, $text-color, 75%) !default;
 $footer-background-color: #000 !default;
-$link-color: #0000ff !default;
-$masthead-link-color: $text-color !default;
-$masthead-link-color-hover: $text-color !default;
+$link-color: #0000ff !default; // post제목 컬러 
+$masthead-link-color: $text-color !default; // 로고와 메뉴 텍스트 컬러
+$masthead-link-color-hover: $text-color !default; // 로고와 메뉴 텍스트 컬러:hover
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+/* 따로 만든 컬러 */
+$header-background-color: #000 !default;
 
 /* contrast syntax highlighting (base16) */
 $base00: #000000 !default;

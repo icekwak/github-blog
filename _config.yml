@@ -5,15 +5,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "YeongJu's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "YeongJu Kwak"
-description              : "컴공 대학생 블로그"
+name                     : "YeongJu's Blog"
+description              : "컴공 대학생 공부 블로그"
 url                      : "https://icekwak.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -89,7 +89,7 @@ analytics:
 author:
   name             : "YeongJu Kwak"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : icekwak@gmail.com
+  bio              : ""
   location         : "South Korea"
   email            : #
   links:
